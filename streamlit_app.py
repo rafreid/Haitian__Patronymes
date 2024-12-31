@@ -195,4 +195,5 @@ deck = pdk.Deck(
 )
 
 st.pydeck_chart(deck)
-st.text('CItadier S.A. (C) 2025')
+st.text('Click on city to see Top 10 last names')
+st.text('Citadier S.A. (C) 2025')
